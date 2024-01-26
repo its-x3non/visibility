@@ -1,11 +1,7 @@
 {
   "pack": {
-    "pack_format": 12,
-    "description": [
-	{
-	"bold": "true",
-	"text": "\u00A7eColorful outline for hard to see blocks!\u00A7r"
-	}
-	]
-    }
+    "pack_format": 18,
+	"supported_formats": [16,22],
+    "description": "\u00A7e\u00A7lColorful outline for hard to see blocks!\u00A7r \u00A7f- x3non"
+   }
 }
